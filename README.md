@@ -4,3 +4,5 @@
 
 
 ![Alt text](https://github.com/brianondemand/Clothes-Store/blob/main/screenshots/CartSection.png)
+
+![Alt text](https://github.com/brianondemand/Clothes-Store/blob/main/screenshots/Item.png)
